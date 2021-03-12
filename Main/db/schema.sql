@@ -28,3 +28,6 @@ CREATE TABLE employee (
   INDEX man_ind (manager_id),
   CONSTRAINT fk_manager FOREIGN KEY (manager_id) REFERENCES employee(id) ON DELETE SET NULL
 );
+
+SELECT * from employee
+INNER JOIN role ON employee.role_id=role.id;   
