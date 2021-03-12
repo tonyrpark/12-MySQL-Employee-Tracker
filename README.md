@@ -2,10 +2,14 @@
 
 1. GIF of Entire App
    ![GIF of App](./Assets/employee-tracker-complete.gif)
+
 2. Screenshot of App 1
+   <br>
    ![Screenshot 1](./Assets/screenshot1.png)
+
 3. Screenshot of App 2
    ![Screenshot 2](./Assets/screenshot2.png)
+
 4. Screenshot of App 3
    ![Screenshot 2](./Assets/screenshot3.png)
 
